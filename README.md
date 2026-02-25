@@ -9,3 +9,5 @@ Start date: N/A
 Agentic commerce:
 - [ ] https://github.com/fzn0x/x402sdk - Payments for agents
 - [ ] https://github.com/fzn0x/8004sdk - Decentralized agents
+
+Note: if all done before 30 days, just contributes to other repositories.
