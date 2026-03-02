@@ -2,6 +2,9 @@
 
 Start date: N/A
 
+Tools:
+- [x] https://github.com/fzn0x/redix - Simplified version for redis
+- [x] https://github.com/fzn0x/transformer - A repository for my chatbots foundation
 - [ ] https://github.com/fzn0x/agentic-terminal - Blazingly fast terminal for agents
 - [ ] https://github.com/fzn0x/agentic-terminal-plugins - Plugins for agentic terminal
 - [ ] https://github.com/fzn0x/agentic-terminal-memory - Memory marketplace for agents
